@@ -1,6 +1,6 @@
 # plugin-transform-wp
 
-Transforming Wordpress site json data. Cleanup data, restore references.
+Transform Wordpress site json data: cleanup data, restore references.
 
 ## Install
 
