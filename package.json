@@ -1,6 +1,6 @@
 {
   "name": "@jamsite/plugin-transform-wp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Jamsite plugin transforming Wordpress site json data.",
   "main": "./lib",
   "directories": {
